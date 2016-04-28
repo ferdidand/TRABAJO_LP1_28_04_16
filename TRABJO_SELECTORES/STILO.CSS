@@ -1,8 +1,7 @@
 h1{
     background: #33efff;
     text-align-last: center;
-} /*selector de etiqueta*/
+} /*----selector de etiqueta----*/
 h1 span{
-    color: darkviolet;
-    background: #95e55a;
+    color: #b227ed;
 }
