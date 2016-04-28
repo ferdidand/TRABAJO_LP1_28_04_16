@@ -12,5 +12,11 @@ h2 span{
     padding-top: 1px;
     padding-left: 20px;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 20px;
+} /*----selector de clase----*/
+#posicioncivil{
+    background: #1C89C9;
+    color: #e23434;
+    float: left;
+    width: 110px;
 }
