@@ -20,3 +20,8 @@ h2 span{
     float: left;
     width: 110px;
 } /*----selector de id----*/
+.real div #esto span{
+    color: red;
+    font-weight: bold;
+    font-size: 25px;
+}
