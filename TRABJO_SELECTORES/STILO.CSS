@@ -1,7 +1,16 @@
 h1{
     background: #33efff;
     text-align-last: center;
-} /*----selector de etiqueta----*/
-h1 span{
-    color: #b227ed;
+} /*----selector de etiqueta, tipo elemento----*/
+h2 span{
+    color: #4b597c;
+} /*----selector desendente----*/
+.susecion{
+    background: #5988ce;
+    color: #FFF;
+    height: 200px;
+    padding-top: 1px;
+    padding-left: 20px;
+    font-weight: bold;
+    font-size: 30px;
 }
